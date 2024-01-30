@@ -1,8 +1,10 @@
 Hello World 👋
 
-:computer: I’m currently invested in Blockchain [Solidity] and Backend [TS, JS, Python] development
+:computer: I specialize in Blockchain development with a focus on Solidity, as well as Backend development using TypeScript, JavaScript, and Python. Additionally, I possess proficiency in Frontend development with React, and Mobile development using Flutter and React Native.
 
-👯 I’m looking to collaborate on more exciting Blockchain projects :ninja:
+🛠️ Some projects I have led and collaborated on include semantic search engines, AI-powered search engines, multichain authentication servers, cross-chain relayers, ZK applications, multichain marketplaces, cross-chain bridges, crowdsale platforms, liquidity lockers, etc.
+
+👯 I enjoy a challenge, and I’m looking to collaborate on more exciting projects :ninja:
 
 💬 Ask me about how to penetrate the Blockchain Dev space as an African. I would love to help :handshake:
 
